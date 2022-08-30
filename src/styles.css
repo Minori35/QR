@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color: #D5E1EF;
+   
+}
+
+.modal {
+    width: 400px; 
+    height: 550px; 
+    background: #ffffff;
+    position: absolute;
+    display: block;
+   
+    top: 20%;
+    left: 35%;
+    border-radius: 15px;
+
+}
+
+img{
+    width: 350; 
+    height: 350px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.txtBlack{
+    font-weight:bold;
+    text-align:center;
+    font-size: 15px;
+
+}
+
+.txt{
+    text-align:center;
+    font-size: 15px;  
+}
+
+.font1{
+    font-family: 'Outfit', sans-serif;
+
+}

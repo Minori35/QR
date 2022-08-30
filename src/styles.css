@@ -24,6 +24,7 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 15px;
 
 }
  
@@ -37,7 +38,7 @@ img{
        
         top: 20%;
         left: 10%;
-        border-radius: auto;
+        border-radius: 15px;
     
     }
     img{
@@ -46,6 +47,7 @@ img{
         display: block;
         margin-left: auto;
         margin-right: auto;
+        border-radius: auto;
     
     }
 }
